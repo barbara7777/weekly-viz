@@ -1,0 +1,923 @@
+citizenship,year,purpose of immigration,immigrations
+TOGETHER,2005,Zaposlitev,4973.0
+TOGETHER,2005,Sezonsko delo,3263.0
+TOGETHER,2005,Združitev z družino,2583.0
+TOGETHER,2005,Študij,483.0
+TOGETHER,2005,Drugo,605.0
+TOGETHER,2005,Neznano,1387.0
+TOGETHER,2006,Zaposlitev,8037.0
+TOGETHER,2006,Sezonsko delo,5486.0
+TOGETHER,2006,Združitev z družino,2956.0
+TOGETHER,2006,Študij,481.0
+TOGETHER,2006,Drugo,531.0
+TOGETHER,2006,Neznano,760.0
+TOGETHER,2007,Zaposlitev,15161.0
+TOGETHER,2007,Sezonsko delo,6182.0
+TOGETHER,2007,Združitev z družino,4794.0
+TOGETHER,2007,Študij,706.0
+TOGETHER,2007,Drugo,603.0
+TOGETHER,2007,Neznano,58.0
+TOGETHER,2008,Zaposlitev,18621.0
+TOGETHER,2008,Sezonsko delo,2789.0
+TOGETHER,2008,Združitev z družino,5494.0
+TOGETHER,2008,Študij,372.0
+TOGETHER,2008,Drugo,777.0
+TOGETHER,2008,Neznano,9.0
+TOGETHER,2009,Zaposlitev,17925.0
+TOGETHER,2009,Sezonsko delo,243.0
+TOGETHER,2009,Združitev z družino,5213.0
+TOGETHER,2009,Študij,517.0
+TOGETHER,2009,Drugo,431.0
+TOGETHER,2009,Neznano,3064.0
+TOGETHER,2010,Zaposlitev,8291.0
+TOGETHER,2010,Združitev z družino,2974.0
+TOGETHER,2010,Študij,218.0
+TOGETHER,2010,Drugo,468.0
+TOGETHER,2010,Neznano,754.0
+TOGETHER,2011,Zaposlitev,5192.0
+TOGETHER,2011,Združitev z družino,4304.0
+TOGETHER,2011,Študij,437.0
+TOGETHER,2011,Drugo,556.0
+TOGETHER,2011,Neznano,276.0
+TOGETHER,2012,Zaposlitev,5913.0
+TOGETHER,2012,Združitev z družino,5075.0
+TOGETHER,2012,Študij,512.0
+TOGETHER,2012,Drugo,614.0
+TOGETHER,2012,Neznano,167.0
+TOGETHER,2013,Zaposlitev,5483.0
+TOGETHER,2013,Združitev z družino,4977.0
+TOGETHER,2013,Študij,507.0
+TOGETHER,2013,Drugo,476.0
+TOGETHER,2013,Neznano,178.0
+TOGETHER,2014,Zaposlitev,5122.0
+TOGETHER,2014,Združitev z družino,4993.0
+TOGETHER,2014,Študij,534.0
+TOGETHER,2014,Drugo,514.0
+TOGETHER,2014,Neznano,148.0
+TOGETHER,2015,Zaposlitev,5547.0
+TOGETHER,2015,Združitev z družino,5939.0
+TOGETHER,2015,Študij,568.0
+TOGETHER,2015,Drugo,458.0
+TOGETHER,2015,Neznano,153.0
+TOGETHER,2016,Zaposlitev,6917.0
+TOGETHER,2016,Združitev z družino,5392.0
+TOGETHER,2016,Študij,757.0
+TOGETHER,2016,Drugo,561.0
+TOGETHER,2016,Neznano,133.0
+TOGETHER,2017,Zaposlitev,8465.0
+TOGETHER,2017,Združitev z družino,5537.0
+TOGETHER,2017,Študij,864.0
+TOGETHER,2017,Drugo,520.0
+TOGETHER,2017,Neznano,134.0
+TOGETHER,2018,Zaposlitev,15510.0
+TOGETHER,2018,Združitev z družino,6821.0
+TOGETHER,2018,Študij,1013.0
+TOGETHER,2018,Drugo,564.0
+TOGETHER,2018,Neznano,193.0
+TOGETHER,2019,Zaposlitev,18736.0
+TOGETHER,2019,Združitev z družino,6952.0
+TOGETHER,2019,Študij,1237.0
+TOGETHER,2019,Drugo,510.0
+TOGETHER,2019,Neznano,125.0
+TOGETHER,2020,Zaposlitev,14450.0
+TOGETHER,2020,Združitev z družino,7704.0
+TOGETHER,2020,Študij,1407.0
+TOGETHER,2020,Drugo,946.0
+TOGETHER,2020,Neznano,243.0
+TOGETHER,2021,Zaposlitev,10355.0
+TOGETHER,2021,Združitev z družino,6941.0
+TOGETHER,2021,Študij,1428.0
+TOGETHER,2021,Drugo,734.0
+TOGETHER,2021,Neznano,204.0
+TOGETHER,2022,Zaposlitev,16262.0
+TOGETHER,2022,Združitev z družino,7079.0
+TOGETHER,2022,Študij,1733.0
+TOGETHER,2022,Drugo,6508.0
+TOGETHER,2022,Neznano,323.0
+EU,2005,Zaposlitev,185.0
+EU,2005,Sezonsko delo,0.0
+EU,2005,Združitev z družino,72.0
+EU,2005,Študij,122.0
+EU,2005,Drugo,454.0
+EU,2005,Neznano,844.0
+EU,2006,Zaposlitev,707.0
+EU,2006,Sezonsko delo,0.0
+EU,2006,Združitev z družino,161.0
+EU,2006,Študij,69.0
+EU,2006,Drugo,309.0
+EU,2006,Neznano,93.0
+EU,2007,Zaposlitev,1806.0
+EU,2007,Združitev z družino,302.0
+EU,2007,Študij,67.0
+EU,2007,Drugo,463.0
+EU,2008,Zaposlitev,1199.0
+EU,2008,Sezonsko delo,147.0
+EU,2008,Združitev z družino,326.0
+EU,2008,Študij,26.0
+EU,2008,Drugo,372.0
+EU,2008,Neznano,0.0
+EU,2009,Zaposlitev,787.0
+EU,2009,Sezonsko delo,0.0
+EU,2009,Združitev z družino,260.0
+EU,2009,Študij,35.0
+EU,2009,Drugo,254.0
+EU,2009,Neznano,545.0
+EU,2010,Zaposlitev,1431.0
+EU,2010,Združitev z družino,218.0
+EU,2010,Študij,37.0
+EU,2010,Drugo,289.0
+EU,2010,Neznano,50.0
+EU,2011,Zaposlitev,1201.0
+EU,2011,Združitev z družino,348.0
+EU,2011,Študij,33.0
+EU,2011,Drugo,388.0
+EU,2011,Neznano,20.0
+EU,2012,Zaposlitev,1224.0
+EU,2012,Združitev z družino,432.0
+EU,2012,Študij,40.0
+EU,2012,Drugo,464.0
+EU,2012,Neznano,19.0
+EU,2013,Zaposlitev,1338.0
+EU,2013,Združitev z družino,363.0
+EU,2013,Študij,51.0
+EU,2013,Drugo,280.0
+EU,2013,Neznano,50.0
+EU,2014,Zaposlitev,2008.0
+EU,2014,Združitev z družino,515.0
+EU,2014,Študij,243.0
+EU,2014,Drugo,419.0
+EU,2014,Neznano,80.0
+EU,2015,Zaposlitev,1638.0
+EU,2015,Združitev z družino,510.0
+EU,2015,Študij,163.0
+EU,2015,Drugo,375.0
+EU,2015,Neznano,76.0
+EU,2016,Zaposlitev,2067.0
+EU,2016,Združitev z družino,572.0
+EU,2016,Študij,252.0
+EU,2016,Drugo,411.0
+EU,2016,Neznano,87.0
+EU,2017,Zaposlitev,2073.0
+EU,2017,Združitev z družino,564.0
+EU,2017,Študij,232.0
+EU,2017,Drugo,357.0
+EU,2017,Neznano,89.0
+EU,2018,Zaposlitev,2070.0
+EU,2018,Združitev z družino,574.0
+EU,2018,Študij,259.0
+EU,2018,Drugo,379.0
+EU,2018,Neznano,99.0
+EU,2019,Zaposlitev,2045.0
+EU,2019,Združitev z družino,504.0
+EU,2019,Študij,202.0
+EU,2019,Drugo,346.0
+EU,2019,Neznano,45.0
+EU,2020,Zaposlitev,1461.0
+EU,2020,Združitev z družino,705.0
+EU,2020,Študij,180.0
+EU,2020,Drugo,778.0
+EU,2020,Neznano,108.0
+EU,2021,Zaposlitev,1409.0
+EU,2021,Združitev z družino,497.0
+EU,2021,Študij,170.0
+EU,2021,Drugo,521.0
+EU,2021,Neznano,97.0
+EU,2022,Zaposlitev,1355.0
+EU,2022,Združitev z družino,377.0
+EU,2022,Študij,183.0
+EU,2022,Drugo,294.0
+EU,2022,Neznano,187.0
+Croatia,2014,Zaposlitev,548.0
+Croatia,2014,Združitev z družino,243.0
+Croatia,2014,Študij,153.0
+Croatia,2014,Drugo,104.0
+Croatia,2014,Neznano,16.0
+Croatia,2015,Zaposlitev,442.0
+Croatia,2015,Združitev z družino,205.0
+Croatia,2015,Študij,111.0
+Croatia,2015,Drugo,72.0
+Croatia,2015,Neznano,16.0
+Croatia,2016,Zaposlitev,593.0
+Croatia,2016,Združitev z družino,251.0
+Croatia,2016,Študij,160.0
+Croatia,2016,Drugo,73.0
+Croatia,2016,Neznano,18.0
+Croatia,2017,Zaposlitev,614.0
+Croatia,2017,Združitev z družino,209.0
+Croatia,2017,Študij,175.0
+Croatia,2017,Drugo,79.0
+Croatia,2017,Neznano,22.0
+Croatia,2018,Zaposlitev,730.0
+Croatia,2018,Združitev z družino,224.0
+Croatia,2018,Študij,180.0
+Croatia,2018,Drugo,77.0
+Croatia,2018,Neznano,20.0
+Croatia,2019,Zaposlitev,877.0
+Croatia,2019,Združitev z družino,200.0
+Croatia,2019,Študij,127.0
+Croatia,2019,Drugo,60.0
+Croatia,2019,Neznano,5.0
+Croatia,2020,Zaposlitev,616.0
+Croatia,2020,Združitev z družino,269.0
+Croatia,2020,Študij,122.0
+Croatia,2020,Drugo,158.0
+Croatia,2020,Neznano,39.0
+Croatia,2021,Zaposlitev,547.0
+Croatia,2021,Združitev z družino,161.0
+Croatia,2021,Študij,98.0
+Croatia,2021,Drugo,80.0
+Croatia,2021,Neznano,25.0
+Croatia,2022,Zaposlitev,575.0
+Croatia,2022,Združitev z družino,135.0
+Croatia,2022,Študij,118.0
+Croatia,2022,Drugo,44.0
+Croatia,2022,Neznano,56.0
+EU,2014,Zaposlitev,1460.0
+EU,2014,Združitev z družino,272.0
+EU,2014,Študij,90.0
+EU,2014,Drugo,315.0
+EU,2014,Neznano,64.0
+EU,2015,Zaposlitev,1196.0
+EU,2015,Združitev z družino,305.0
+EU,2015,Študij,52.0
+EU,2015,Drugo,303.0
+EU,2015,Neznano,60.0
+EU,2016,Zaposlitev,1474.0
+EU,2016,Združitev z družino,321.0
+EU,2016,Študij,92.0
+EU,2016,Drugo,338.0
+EU,2016,Neznano,69.0
+EU,2017,Zaposlitev,1459.0
+EU,2017,Združitev z družino,355.0
+EU,2017,Študij,57.0
+EU,2017,Drugo,278.0
+EU,2017,Neznano,67.0
+EU,2018,Zaposlitev,1340.0
+EU,2018,Združitev z družino,350.0
+EU,2018,Študij,79.0
+EU,2018,Drugo,302.0
+EU,2018,Neznano,79.0
+EU,2019,Zaposlitev,1168.0
+EU,2019,Združitev z družino,304.0
+EU,2019,Študij,75.0
+EU,2019,Drugo,286.0
+EU,2019,Neznano,40.0
+EU,2020,Zaposlitev,845.0
+EU,2020,Združitev z družino,436.0
+EU,2020,Študij,58.0
+EU,2020,Drugo,620.0
+EU,2020,Neznano,69.0
+EU,2021,Zaposlitev,862.0
+EU,2021,Združitev z družino,336.0
+EU,2021,Študij,72.0
+EU,2021,Drugo,441.0
+EU,2021,Neznano,72.0
+EU,2022,Zaposlitev,780.0
+EU,2022,Združitev z družino,242.0
+EU,2022,Študij,65.0
+EU,2022,Drugo,250.0
+EU,2022,Neznano,131.0
+Bosnia,2005,Zaposlitev,2049.0
+Bosnia,2005,Sezonsko delo,1256.0
+Bosnia,2005,Združitev z družino,780.0
+Bosnia,2005,Študij,34.0
+Bosnia,2005,Drugo,36.0
+Bosnia,2005,Neznano,152.0
+Bosnia,2006,Zaposlitev,3661.0
+Bosnia,2006,Sezonsko delo,2847.0
+Bosnia,2006,Združitev z družino,964.0
+Bosnia,2006,Študij,66.0
+Bosnia,2006,Drugo,46.0
+Bosnia,2006,Neznano,287.0
+Bosnia,2007,Zaposlitev,7477.0
+Bosnia,2007,Sezonsko delo,3287.0
+Bosnia,2007,Združitev z družino,1565.0
+Bosnia,2007,Študij,78.0
+Bosnia,2007,Drugo,35.0
+Bosnia,2007,Neznano,37.0
+Bosnia,2008,Zaposlitev,9690.0
+Bosnia,2008,Sezonsko delo,1368.0
+Bosnia,2008,Združitev z družino,1815.0
+Bosnia,2008,Študij,48.0
+Bosnia,2008,Drugo,117.0
+Bosnia,2008,Neznano,0.0
+Bosnia,2009,Zaposlitev,9477.0
+Bosnia,2009,Sezonsko delo,108.0
+Bosnia,2009,Združitev z družino,2193.0
+Bosnia,2009,Študij,89.0
+Bosnia,2009,Drugo,55.0
+Bosnia,2009,Neznano,988.0
+Bosnia,2010,Zaposlitev,2965.0
+Bosnia,2010,Združitev z družino,1106.0
+Bosnia,2010,Študij,23.0
+Bosnia,2010,Drugo,30.0
+Bosnia,2010,Neznano,279.0
+Bosnia,2011,Zaposlitev,1628.0
+Bosnia,2011,Združitev z družino,1571.0
+Bosnia,2011,Študij,59.0
+Bosnia,2011,Drugo,28.0
+Bosnia,2011,Neznano,101.0
+Bosnia,2012,Zaposlitev,1973.0
+Bosnia,2012,Združitev z družino,1904.0
+Bosnia,2012,Študij,83.0
+Bosnia,2012,Drugo,33.0
+Bosnia,2012,Neznano,52.0
+Bosnia,2013,Zaposlitev,1713.0
+Bosnia,2013,Združitev z družino,1974.0
+Bosnia,2013,Študij,73.0
+Bosnia,2013,Drugo,34.0
+Bosnia,2013,Neznano,52.0
+Bosnia,2014,Zaposlitev,1403.0
+Bosnia,2014,Združitev z družino,1863.0
+Bosnia,2014,Študij,65.0
+Bosnia,2014,Drugo,22.0
+Bosnia,2014,Neznano,23.0
+Bosnia,2015,Zaposlitev,2128.0
+Bosnia,2015,Združitev z družino,2401.0
+Bosnia,2015,Študij,120.0
+Bosnia,2015,Drugo,14.0
+Bosnia,2015,Neznano,31.0
+Bosnia,2016,Zaposlitev,2521.0
+Bosnia,2016,Združitev z družino,2123.0
+Bosnia,2016,Študij,144.0
+Bosnia,2016,Drugo,8.0
+Bosnia,2016,Neznano,15.0
+Bosnia,2017,Zaposlitev,3677.0
+Bosnia,2017,Združitev z družino,2281.0
+Bosnia,2017,Študij,207.0
+Bosnia,2017,Drugo,6.0
+Bosnia,2017,Neznano,14.0
+Bosnia,2018,Zaposlitev,8243.0
+Bosnia,2018,Združitev z družino,3212.0
+Bosnia,2018,Študij,208.0
+Bosnia,2018,Drugo,14.0
+Bosnia,2018,Neznano,31.0
+Bosnia,2019,Zaposlitev,9754.0
+Bosnia,2019,Združitev z družino,3627.0
+Bosnia,2019,Študij,354.0
+Bosnia,2019,Drugo,31.0
+Bosnia,2019,Neznano,26.0
+Bosnia,2020,Zaposlitev,7031.0
+Bosnia,2020,Združitev z družino,3843.0
+Bosnia,2020,Študij,383.0
+Bosnia,2020,Drugo,14.0
+Bosnia,2020,Neznano,59.0
+Bosnia,2021,Zaposlitev,4797.0
+Bosnia,2021,Združitev z družino,3062.0
+Bosnia,2021,Študij,426.0
+Bosnia,2021,Drugo,42.0
+Bosnia,2021,Neznano,30.0
+Bosnia,2022,Zaposlitev,7957.0
+Bosnia,2022,Združitev z družino,2950.0
+Bosnia,2022,Študij,432.0
+Bosnia,2022,Drugo,24.0
+Bosnia,2022,Neznano,26.0
+Croatia,2005,Zaposlitev,313.0
+Croatia,2005,Združitev z družino,295.0
+Croatia,2005,Študij,101.0
+Croatia,2005,Drugo,58.0
+Croatia,2006,Zaposlitev,387.0
+Croatia,2006,Združitev z družino,292.0
+Croatia,2006,Drugo,77.0
+Croatia,2006,Neznano,38.0
+Croatia,2007,Zaposlitev,627.0
+Croatia,2007,Sezonsko delo,204.0
+Croatia,2007,Združitev z družino,375.0
+Croatia,2007,Študij,146.0
+Croatia,2007,Drugo,48.0
+Croatia,2007,Neznano,0.0
+Croatia,2008,Zaposlitev,886.0
+Croatia,2008,Sezonsko delo,131.0
+Croatia,2008,Združitev z družino,380.0
+Croatia,2008,Študij,116.0
+Croatia,2008,Drugo,84.0
+Croatia,2008,Neznano,0.0
+Croatia,2009,Zaposlitev,757.0
+Croatia,2009,Združitev z družino,285.0
+Croatia,2009,Študij,138.0
+Croatia,2009,Drugo,67.0
+Croatia,2010,Zaposlitev,558.0
+Croatia,2010,Združitev z družino,175.0
+Croatia,2010,Študij,76.0
+Croatia,2010,Drugo,50.0
+Croatia,2010,Neznano,69.0
+Croatia,2011,Zaposlitev,397.0
+Croatia,2011,Združitev z družino,298.0
+Croatia,2011,Študij,137.0
+Croatia,2011,Drugo,85.0
+Croatia,2011,Neznano,28.0
+Croatia,2012,Zaposlitev,618.0
+Croatia,2012,Združitev z družino,287.0
+Croatia,2012,Študij,149.0
+Croatia,2012,Drugo,46.0
+Croatia,2012,Neznano,12.0
+Croatia,2013,Zaposlitev,719.0
+Croatia,2013,Združitev z družino,251.0
+Croatia,2013,Študij,133.0
+Croatia,2013,Drugo,78.0
+Croatia,2013,Neznano,16.0
+Serbia & Montenegro,2007,Zaposlitev,3219.0
+Serbia & Montenegro,2007,Sezonsko delo,1755.0
+Serbia & Montenegro,2007,Združitev z družino,1254.0
+Serbia & Montenegro,2007,Študij,108.0
+Serbia & Montenegro,2007,Drugo,21.0
+Serbia & Montenegro,2007,Neznano,11.0
+Serbia & Montenegro,2008,Zaposlitev,2972.0
+Serbia & Montenegro,2008,Sezonsko delo,361.0
+Serbia & Montenegro,2008,Združitev z družino,852.0
+Serbia & Montenegro,2008,Študij,53.0
+Serbia & Montenegro,2008,Drugo,117.0
+Serbia & Montenegro,2008,Neznano,7.0
+Serbia & Montenegro,2009,Zaposlitev,1981.0
+Serbia & Montenegro,2009,Sezonsko delo,12.0
+Serbia & Montenegro,2009,Združitev z družino,441.0
+Serbia & Montenegro,2009,Študij,60.0
+Serbia & Montenegro,2009,Drugo,19.0
+Serbia & Montenegro,2009,Neznano,394.0
+Serbia & Montenegro,2010,Zaposlitev,737.0
+Serbia & Montenegro,2010,Združitev z družino,223.0
+Serbia & Montenegro,2010,Študij,19.0
+Serbia & Montenegro,2010,Drugo,26.0
+Serbia & Montenegro,2010,Neznano,84.0
+Serbia & Montenegro,2011,Zaposlitev,738.0
+Serbia & Montenegro,2011,Združitev z družino,356.0
+Serbia & Montenegro,2011,Študij,37.0
+Serbia & Montenegro,2011,Drugo,10.0
+Serbia & Montenegro,2011,Neznano,33.0
+Serbia & Montenegro,2012,Zaposlitev,808.0
+Serbia & Montenegro,2012,Združitev z družino,431.0
+Serbia & Montenegro,2012,Študij,47.0
+Serbia & Montenegro,2012,Drugo,24.0
+Serbia & Montenegro,2012,Neznano,30.0
+Serbia & Montenegro,2013,Zaposlitev,805.0
+Serbia & Montenegro,2013,Združitev z družino,519.0
+Serbia & Montenegro,2013,Študij,49.0
+Serbia & Montenegro,2013,Drugo,22.0
+Serbia & Montenegro,2013,Neznano,19.0
+Serbia & Montenegro,2014,Zaposlitev,736.0
+Serbia & Montenegro,2014,Združitev z družino,453.0
+Serbia & Montenegro,2014,Študij,41.0
+Serbia & Montenegro,2014,Drugo,14.0
+Serbia & Montenegro,2014,Neznano,22.0
+Serbia & Montenegro,2015,Zaposlitev,747.0
+Serbia & Montenegro,2015,Združitev z družino,435.0
+Serbia & Montenegro,2015,Študij,41.0
+Serbia & Montenegro,2015,Drugo,8.0
+Serbia & Montenegro,2015,Neznano,20.0
+Serbia & Montenegro,2016,Zaposlitev,1103.0
+Serbia & Montenegro,2016,Združitev z družino,415.0
+Serbia & Montenegro,2016,Študij,59.0
+Serbia & Montenegro,2016,Drugo,15.0
+Serbia & Montenegro,2016,Neznano,5.0
+Serbia & Montenegro,2017,Zaposlitev,1450.0
+Serbia & Montenegro,2017,Združitev z družino,437.0
+Serbia & Montenegro,2017,Študij,48.0
+Serbia & Montenegro,2017,Drugo,13.0
+Serbia & Montenegro,2017,Neznano,8.0
+Serbia & Montenegro,2018,Zaposlitev,2463.0
+Serbia & Montenegro,2018,Združitev z družino,571.0
+Serbia & Montenegro,2018,Študij,112.0
+Serbia & Montenegro,2018,Drugo,12.0
+Serbia & Montenegro,2018,Neznano,19.0
+Serbia & Montenegro,2019,Zaposlitev,2940.0
+Serbia & Montenegro,2019,Združitev z družino,643.0
+Serbia & Montenegro,2019,Študij,163.0
+Serbia & Montenegro,2019,Drugo,20.0
+Serbia & Montenegro,2019,Neznano,12.0
+Serbia & Montenegro,2020,Zaposlitev,2053.0
+Serbia & Montenegro,2020,Združitev z družino,644.0
+Serbia & Montenegro,2020,Študij,252.0
+Serbia & Montenegro,2020,Drugo,13.0
+Serbia & Montenegro,2020,Neznano,17.0
+Serbia & Montenegro,2021,Zaposlitev,1262.0
+Serbia & Montenegro,2021,Združitev z družino,552.0
+Serbia & Montenegro,2021,Študij,282.0
+Serbia & Montenegro,2021,Drugo,18.0
+Serbia & Montenegro,2021,Neznano,17.0
+Serbia & Montenegro,2022,Zaposlitev,1769.0
+Serbia & Montenegro,2022,Združitev z družino,534.0
+Serbia & Montenegro,2022,Študij,385.0
+Serbia & Montenegro,2022,Drugo,17.0
+Serbia & Montenegro,2022,Neznano,14.0
+Serbia & Montenegro,2005,Zaposlitev,1246.0
+Serbia & Montenegro,2005,Sezonsko delo,1101.0
+Serbia & Montenegro,2005,Združitev z družino,680.0
+Serbia & Montenegro,2005,Študij,77.0
+Serbia & Montenegro,2005,Drugo,29.0
+Serbia & Montenegro,2005,Neznano,191.0
+Serbia & Montenegro,2006,Zaposlitev,1932.0
+Serbia & Montenegro,2006,Sezonsko delo,1499.0
+Serbia & Montenegro,2006,Združitev z družino,734.0
+Serbia & Montenegro,2006,Študij,73.0
+Serbia & Montenegro,2006,Drugo,35.0
+Serbia & Montenegro,2006,Neznano,163.0
+Serbia & Montenegro,2007,Sezonsko delo,6.0
+Serbia & Montenegro,2007,Študij,16.0
+Serbia & Montenegro,2007,Neznano,0.0
+Serbia & Montenegro,2008,Zaposlitev,53.0
+Serbia & Montenegro,2008,Sezonsko delo,5.0
+Serbia & Montenegro,2008,Združitev z družino,67.0
+Serbia & Montenegro,2008,Študij,7.0
+Serbia & Montenegro,2008,Drugo,2.0
+Serbia & Montenegro,2008,Neznano,0.0
+Serbia & Montenegro,2009,Zaposlitev,41.0
+Serbia & Montenegro,2009,Združitev z družino,44.0
+Serbia & Montenegro,2009,Študij,7.0
+Serbia & Montenegro,2009,Drugo,0.0
+Serbia & Montenegro,2010,Zaposlitev,49.0
+Serbia & Montenegro,2010,Združitev z družino,26.0
+Serbia & Montenegro,2010,Študij,5.0
+Serbia & Montenegro,2010,Drugo,5.0
+Serbia & Montenegro,2010,Neznano,2.0
+Serbia & Montenegro,2011,Zaposlitev,19.0
+Serbia & Montenegro,2011,Združitev z družino,52.0
+Serbia & Montenegro,2011,Študij,9.0
+Serbia & Montenegro,2011,Drugo,0.0
+Serbia & Montenegro,2011,Neznano,0.0
+Serbia & Montenegro,2012,Zaposlitev,18.0
+Serbia & Montenegro,2012,Združitev z družino,42.0
+Serbia & Montenegro,2012,Študij,11.0
+Serbia & Montenegro,2012,Drugo,2.0
+Serbia & Montenegro,2012,Neznano,3.0
+Serbia & Montenegro,2013,Zaposlitev,13.0
+Serbia & Montenegro,2013,Združitev z družino,48.0
+Serbia & Montenegro,2013,Študij,9.0
+Serbia & Montenegro,2013,Drugo,0.0
+Serbia & Montenegro,2013,Neznano,6.0
+Serbia & Montenegro,2014,Zaposlitev,17.0
+Serbia & Montenegro,2014,Združitev z družino,45.0
+Serbia & Montenegro,2014,Študij,11.0
+Serbia & Montenegro,2014,Drugo,0.0
+Serbia & Montenegro,2014,Neznano,3.0
+Serbia & Montenegro,2015,Zaposlitev,13.0
+Serbia & Montenegro,2015,Združitev z družino,41.0
+Serbia & Montenegro,2015,Študij,13.0
+Serbia & Montenegro,2015,Drugo,0.0
+Serbia & Montenegro,2015,Neznano,0.0
+Serbia & Montenegro,2016,Zaposlitev,16.0
+Serbia & Montenegro,2016,Združitev z družino,24.0
+Serbia & Montenegro,2016,Študij,11.0
+Serbia & Montenegro,2016,Drugo,1.0
+Serbia & Montenegro,2016,Neznano,0.0
+Serbia & Montenegro,2017,Zaposlitev,25.0
+Serbia & Montenegro,2017,Združitev z družino,22.0
+Serbia & Montenegro,2017,Študij,17.0
+Serbia & Montenegro,2017,Drugo,0.0
+Serbia & Montenegro,2017,Neznano,1.0
+Serbia & Montenegro,2018,Zaposlitev,43.0
+Serbia & Montenegro,2018,Združitev z družino,28.0
+Serbia & Montenegro,2018,Študij,12.0
+Serbia & Montenegro,2018,Drugo,1.0
+Serbia & Montenegro,2018,Neznano,0.0
+Serbia & Montenegro,2019,Zaposlitev,62.0
+Serbia & Montenegro,2019,Združitev z družino,19.0
+Serbia & Montenegro,2019,Študij,36.0
+Serbia & Montenegro,2019,Drugo,1.0
+Serbia & Montenegro,2019,Neznano,0.0
+Serbia & Montenegro,2020,Zaposlitev,45.0
+Serbia & Montenegro,2020,Združitev z družino,34.0
+Serbia & Montenegro,2020,Študij,41.0
+Serbia & Montenegro,2020,Drugo,0.0
+Serbia & Montenegro,2020,Neznano,2.0
+Serbia & Montenegro,2021,Zaposlitev,53.0
+Serbia & Montenegro,2021,Združitev z družino,23.0
+Serbia & Montenegro,2021,Študij,40.0
+Serbia & Montenegro,2021,Drugo,1.0
+Serbia & Montenegro,2021,Neznano,2.0
+Serbia & Montenegro,2022,Zaposlitev,65.0
+Serbia & Montenegro,2022,Združitev z družino,19.0
+Serbia & Montenegro,2022,Študij,69.0
+Serbia & Montenegro,2022,Drugo,1.0
+Serbia & Montenegro,2022,Neznano,1.0
+Kosovo,2008,Zaposlitev,1251.0
+Kosovo,2008,Sezonsko delo,362.0
+Kosovo,2008,Združitev z družino,540.0
+Kosovo,2008,Študij,5.0
+Kosovo,2008,Drugo,11.0
+Kosovo,2008,Neznano,0.0
+Kosovo,2009,Zaposlitev,2357.0
+Kosovo,2009,Sezonsko delo,84.0
+Kosovo,2009,Združitev z družino,763.0
+Kosovo,2009,Študij,21.0
+Kosovo,2009,Drugo,13.0
+Kosovo,2009,Neznano,338.0
+Kosovo,2010,Zaposlitev,1204.0
+Kosovo,2010,Združitev z družino,542.0
+Kosovo,2010,Študij,3.0
+Kosovo,2010,Drugo,21.0
+Kosovo,2010,Neznano,118.0
+Kosovo,2011,Zaposlitev,422.0
+Kosovo,2011,Združitev z družino,728.0
+Kosovo,2011,Študij,29.0
+Kosovo,2011,Drugo,5.0
+Kosovo,2011,Neznano,46.0
+Kosovo,2012,Zaposlitev,431.0
+Kosovo,2012,Združitev z družino,879.0
+Kosovo,2012,Študij,17.0
+Kosovo,2012,Drugo,7.0
+Kosovo,2012,Neznano,25.0
+Kosovo,2013,Zaposlitev,219.0
+Kosovo,2013,Združitev z družino,814.0
+Kosovo,2013,Študij,8.0
+Kosovo,2013,Drugo,4.0
+Kosovo,2013,Neznano,7.0
+Kosovo,2014,Zaposlitev,257.0
+Kosovo,2014,Združitev z družino,1021.0
+Kosovo,2014,Študij,15.0
+Kosovo,2014,Drugo,1.0
+Kosovo,2014,Neznano,5.0
+Kosovo,2015,Zaposlitev,260.0
+Kosovo,2015,Združitev z družino,1244.0
+Kosovo,2015,Študij,15.0
+Kosovo,2015,Drugo,2.0
+Kosovo,2015,Neznano,10.0
+Kosovo,2016,Zaposlitev,283.0
+Kosovo,2016,Združitev z družino,1178.0
+Kosovo,2016,Študij,15.0
+Kosovo,2016,Drugo,2.0
+Kosovo,2016,Neznano,5.0
+Kosovo,2017,Zaposlitev,377.0
+Kosovo,2017,Združitev z družino,975.0
+Kosovo,2017,Študij,25.0
+Kosovo,2017,Drugo,2.0
+Kosovo,2017,Neznano,1.0
+Kosovo,2018,Zaposlitev,1312.0
+Kosovo,2018,Združitev z družino,975.0
+Kosovo,2018,Študij,25.0
+Kosovo,2018,Drugo,5.0
+Kosovo,2018,Neznano,16.0
+Kosovo,2019,Zaposlitev,2343.0
+Kosovo,2019,Združitev z družino,956.0
+Kosovo,2019,Študij,29.0
+Kosovo,2019,Drugo,4.0
+Kosovo,2019,Neznano,12.0
+Kosovo,2020,Zaposlitev,2425.0
+Kosovo,2020,Združitev z družino,1298.0
+Kosovo,2020,Študij,22.0
+Kosovo,2020,Drugo,0.0
+Kosovo,2020,Neznano,23.0
+Kosovo,2021,Zaposlitev,1799.0
+Kosovo,2021,Združitev z družino,1645.0
+Kosovo,2021,Študij,26.0
+Kosovo,2021,Drugo,8.0
+Kosovo,2021,Neznano,23.0
+Kosovo,2022,Zaposlitev,3305.0
+Kosovo,2022,Združitev z družino,1806.0
+Kosovo,2022,Študij,20.0
+Kosovo,2022,Drugo,1.0
+Kosovo,2022,Neznano,14.0
+Other European Countries,2005,Zaposlitev,1046.0
+Other European Countries,2005,Sezonsko delo,743.0
+Other European Countries,2005,Združitev z družino,617.0
+Other European Countries,2005,Študij,82.0
+Other European Countries,2005,Drugo,17.0
+Other European Countries,2005,Neznano,94.0
+Other European Countries,2006,Zaposlitev,1204.0
+Other European Countries,2006,Sezonsko delo,884.0
+Other European Countries,2006,Združitev z družino,665.0
+Other European Countries,2006,Študij,105.0
+Other European Countries,2006,Drugo,33.0
+Other European Countries,2006,Neznano,161.0
+Other European Countries,2007,Zaposlitev,1760.0
+Other European Countries,2007,Sezonsko delo,925.0
+Other European Countries,2007,Združitev z družino,1030.0
+Other European Countries,2007,Študij,175.0
+Other European Countries,2008,Zaposlitev,2204.0
+Other European Countries,2008,Sezonsko delo,371.0
+Other European Countries,2008,Združitev z družino,1200.0
+Other European Countries,2008,Študij,97.0
+Other European Countries,2008,Drugo,47.0
+Other European Countries,2008,Neznano,2.0
+Other European Countries,2009,Zaposlitev,2064.0
+Other European Countries,2009,Sezonsko delo,26.0
+Other European Countries,2009,Združitev z družino,960.0
+Other European Countries,2009,Študij,139.0
+Other European Countries,2009,Drugo,14.0
+Other European Countries,2009,Neznano,461.0
+Other European Countries,2010,Zaposlitev,917.0
+Other European Countries,2010,Združitev z družino,512.0
+Other European Countries,2010,Študij,46.0
+Other European Countries,2010,Drugo,19.0
+Other European Countries,2010,Neznano,106.0
+Other European Countries,2011,Zaposlitev,582.0
+Other European Countries,2011,Združitev z družino,691.0
+Other European Countries,2011,Študij,106.0
+Other European Countries,2011,Drugo,21.0
+Other European Countries,2011,Neznano,35.0
+Other European Countries,2012,Zaposlitev,619.0
+Other European Countries,2012,Združitev z družino,839.0
+Other European Countries,2012,Študij,142.0
+Other European Countries,2012,Drugo,10.0
+Other European Countries,2012,Neznano,23.0
+Other European Countries,2013,Zaposlitev,485.0
+Other European Countries,2013,Združitev z družino,732.0
+Other European Countries,2013,Študij,151.0
+Other European Countries,2013,Drugo,19.0
+Other European Countries,2013,Neznano,18.0
+Other European Countries,2014,Zaposlitev,531.0
+Other European Countries,2014,Združitev z družino,836.0
+Other European Countries,2014,Študij,134.0
+Other European Countries,2014,Drugo,10.0
+Other European Countries,2014,Neznano,6.0
+Other European Countries,2015,Zaposlitev,525.0
+Other European Countries,2015,Združitev z družino,1003.0
+Other European Countries,2015,Študij,169.0
+Other European Countries,2015,Drugo,12.0
+Other European Countries,2015,Neznano,10.0
+Other European Countries,2016,Zaposlitev,688.0
+Other European Countries,2016,Združitev z družino,804.0
+Other European Countries,2016,Študij,228.0
+Other European Countries,2016,Drugo,10.0
+Other European Countries,2016,Neznano,11.0
+Other European Countries,2017,Zaposlitev,620.0
+Other European Countries,2017,Združitev z družino,910.0
+Other European Countries,2017,Študij,254.0
+Other European Countries,2017,Drugo,27.0
+Other European Countries,2017,Neznano,13.0
+Other European Countries,2018,Zaposlitev,1053.0
+Other European Countries,2018,Združitev z družino,1082.0
+Other European Countries,2018,Študij,323.0
+Other European Countries,2018,Drugo,14.0
+Other European Countries,2018,Neznano,19.0
+Other European Countries,2019,Zaposlitev,1156.0
+Other European Countries,2019,Združitev z družino,842.0
+Other European Countries,2019,Študij,370.0
+Other European Countries,2019,Drugo,18.0
+Other European Countries,2019,Neznano,19.0
+Other European Countries,2020,Zaposlitev,930.0
+Other European Countries,2020,Združitev z družino,854.0
+Other European Countries,2020,Študij,447.0
+Other European Countries,2020,Drugo,23.0
+Other European Countries,2020,Neznano,22.0
+Other European Countries,2021,Zaposlitev,730.0
+Other European Countries,2021,Združitev z družino,790.0
+Other European Countries,2021,Študij,408.0
+Other European Countries,2021,Drugo,72.0
+Other European Countries,2021,Neznano,26.0
+Other European Countries,2022,Zaposlitev,1171.0
+Other European Countries,2022,Združitev z družino,952.0
+Other European Countries,2022,Študij,559.0
+Other European Countries,2022,Drugo,6086.0
+Other European Countries,2022,Neznano,53.0
+Noneuropean countries,2005,Zaposlitev,134.0
+Noneuropean countries,2005,Združitev z družino,139.0
+Noneuropean countries,2005,Študij,67.0
+Noneuropean countries,2005,Drugo,7.0
+Noneuropean countries,2006,Zaposlitev,142.0
+Noneuropean countries,2006,Združitev z družino,132.0
+Noneuropean countries,2006,Neznano,18.0
+Noneuropean countries,2007,Zaposlitev,239.0
+Noneuropean countries,2007,Združitev z družino,224.0
+Noneuropean countries,2007,Študij,116.0
+Noneuropean countries,2008,Zaposlitev,341.0
+Noneuropean countries,2008,Sezonsko delo,29.0
+Noneuropean countries,2008,Združitev z družino,263.0
+Noneuropean countries,2008,Študij,20.0
+Noneuropean countries,2008,Drugo,20.0
+Noneuropean countries,2008,Neznano,0.0
+Noneuropean countries,2009,Zaposlitev,456.0
+Noneuropean countries,2009,Sezonsko delo,9.0
+Noneuropean countries,2009,Združitev z družino,253.0
+Noneuropean countries,2009,Študij,28.0
+Noneuropean countries,2009,Drugo,9.0
+Noneuropean countries,2009,Neznano,123.0
+Noneuropean countries,2010,Zaposlitev,410.0
+Noneuropean countries,2010,Združitev z družino,154.0
+Noneuropean countries,2010,Študij,9.0
+Noneuropean countries,2010,Drugo,21.0
+Noneuropean countries,2010,Neznano,43.0
+Noneuropean countries,2011,Zaposlitev,205.0
+Noneuropean countries,2011,Združitev z družino,260.0
+Noneuropean countries,2011,Študij,27.0
+Noneuropean countries,2011,Drugo,19.0
+Noneuropean countries,2011,Neznano,13.0
+Noneuropean countries,2012,Zaposlitev,222.0
+Noneuropean countries,2012,Združitev z družino,261.0
+Noneuropean countries,2012,Študij,23.0
+Noneuropean countries,2012,Drugo,28.0
+Noneuropean countries,2012,Neznano,3.0
+Noneuropean countries,2013,Zaposlitev,191.0
+Noneuropean countries,2013,Združitev z družino,276.0
+Noneuropean countries,2013,Študij,33.0
+Noneuropean countries,2013,Drugo,39.0
+Noneuropean countries,2013,Neznano,10.0
+Noneuropean countries,2014,Zaposlitev,170.0
+Noneuropean countries,2014,Združitev z družino,260.0
+Noneuropean countries,2014,Študij,25.0
+Noneuropean countries,2014,Drugo,48.0
+Noneuropean countries,2014,Neznano,9.0
+Noneuropean countries,2015,Zaposlitev,236.0
+Noneuropean countries,2015,Združitev z družino,305.0
+Noneuropean countries,2015,Študij,47.0
+Noneuropean countries,2015,Drugo,47.0
+Noneuropean countries,2015,Neznano,6.0
+Noneuropean countries,2016,Zaposlitev,239.0
+Noneuropean countries,2016,Združitev z družino,276.0
+Noneuropean countries,2016,Študij,48.0
+Noneuropean countries,2016,Drugo,114.0
+Noneuropean countries,2016,Neznano,10.0
+Noneuropean countries,2017,Zaposlitev,243.0
+Noneuropean countries,2017,Združitev z družino,348.0
+Noneuropean countries,2017,Študij,81.0
+Noneuropean countries,2017,Drugo,115.0
+Noneuropean countries,2017,Neznano,8.0
+Noneuropean countries,2018,Zaposlitev,326.0
+Noneuropean countries,2018,Združitev z družino,379.0
+Noneuropean countries,2018,Študij,74.0
+Noneuropean countries,2018,Drugo,139.0
+Noneuropean countries,2018,Neznano,9.0
+Noneuropean countries,2019,Zaposlitev,436.0
+Noneuropean countries,2019,Združitev z družino,361.0
+Noneuropean countries,2019,Študij,83.0
+Noneuropean countries,2019,Drugo,90.0
+Noneuropean countries,2019,Neznano,11.0
+Noneuropean countries,2020,Zaposlitev,505.0
+Noneuropean countries,2020,Združitev z družino,326.0
+Noneuropean countries,2020,Študij,82.0
+Noneuropean countries,2020,Drugo,118.0
+Noneuropean countries,2020,Neznano,12.0
+Noneuropean countries,2021,Zaposlitev,305.0
+Noneuropean countries,2021,Združitev z družino,372.0
+Noneuropean countries,2021,Študij,76.0
+Noneuropean countries,2021,Drugo,72.0
+Noneuropean countries,2021,Neznano,9.0
+Noneuropean countries,2022,Zaposlitev,640.0
+Noneuropean countries,2022,Združitev z družino,441.0
+Noneuropean countries,2022,Študij,85.0
+Noneuropean countries,2022,Drugo,85.0
+Noneuropean countries,2022,Neznano,28.0
+Unknown,2005,Zaposlitev,0.0
+Unknown,2005,Sezonsko delo,0.0
+Unknown,2005,Združitev z družino,0.0
+Unknown,2005,Študij,0.0
+Unknown,2005,Drugo,4.0
+Unknown,2005,Neznano,0.0
+Unknown,2006,Zaposlitev,4.0
+Unknown,2006,Sezonsko delo,0.0
+Unknown,2006,Združitev z družino,8.0
+Unknown,2006,Neznano,0.0
+Unknown,2007,Sezonsko delo,0.0
+Unknown,2007,Študij,0.0
+Unknown,2007,Neznano,0.0
+Unknown,2008,Zaposlitev,25.0
+Unknown,2008,Sezonsko delo,15.0
+Unknown,2008,Združitev z družino,51.0
+Unknown,2008,Študij,0.0
+Unknown,2008,Drugo,7.0
+Unknown,2008,Neznano,0.0
+Unknown,2009,Zaposlitev,5.0
+Unknown,2009,Sezonsko delo,0.0
+Unknown,2009,Združitev z družino,14.0
+Unknown,2009,Študij,0.0
+Unknown,2009,Drugo,0.0
+Unknown,2009,Neznano,3.0
+Unknown,2010,Zaposlitev,20.0
+Unknown,2010,Združitev z družino,18.0
+Unknown,2010,Študij,0.0
+Unknown,2010,Drugo,7.0
+Unknown,2010,Neznano,3.0
+Unknown,2011,Zaposlitev,0.0
+Unknown,2011,Združitev z družino,0.0
+Unknown,2011,Študij,0.0
+Unknown,2011,Drugo,0.0
+Unknown,2011,Neznano,0.0
+Unknown,2012,Zaposlitev,0.0
+Unknown,2012,Združitev z družino,0.0
+Unknown,2012,Študij,0.0
+Unknown,2012,Drugo,0.0
+Unknown,2012,Neznano,0.0
+Unknown,2013,Zaposlitev,0.0
+Unknown,2013,Združitev z družino,0.0
+Unknown,2013,Študij,0.0
+Unknown,2013,Drugo,0.0
+Unknown,2013,Neznano,0.0
+Unknown,2014,Zaposlitev,0.0
+Unknown,2014,Združitev z družino,0.0
+Unknown,2014,Študij,0.0
+Unknown,2014,Drugo,0.0
+Unknown,2014,Neznano,0.0
+Unknown,2015,Zaposlitev,0.0
+Unknown,2015,Združitev z družino,0.0
+Unknown,2015,Študij,0.0
+Unknown,2015,Drugo,0.0
+Unknown,2015,Neznano,0.0
+Unknown,2016,Zaposlitev,0.0
+Unknown,2016,Združitev z družino,0.0
+Unknown,2016,Študij,0.0
+Unknown,2016,Drugo,0.0
+Unknown,2016,Neznano,0.0
+Unknown,2017,Zaposlitev,0.0
+Unknown,2017,Združitev z družino,0.0
+Unknown,2017,Študij,0.0
+Unknown,2017,Drugo,0.0
+Unknown,2017,Neznano,0.0
+Unknown,2018,Zaposlitev,0.0
+Unknown,2018,Združitev z družino,0.0
+Unknown,2018,Študij,0.0
+Unknown,2018,Drugo,0.0
+Unknown,2018,Neznano,0.0
+Unknown,2019,Zaposlitev,0.0
+Unknown,2019,Združitev z družino,0.0
+Unknown,2019,Študij,0.0
+Unknown,2019,Drugo,0.0
+Unknown,2019,Neznano,0.0
